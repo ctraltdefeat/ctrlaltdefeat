@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'chelthm';
+  src: url('/lib/fonts/chelthm.ttf');
+}
+
+@font-face {
+  font-family: 'erasdemi';
+  src: url('/lib/fonts/erasdemi.ttf');
+}
+
+body {font-family: 'chelthm';}
+h1, h2, h3, h4, h5 { font-family: 'erasdemi'; }

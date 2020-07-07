@@ -1,0 +1,97 @@
+====== SPECIES ======
+^SENTIENTS ^DEX ^KNO ^MEC ^PER ^STR ^TEC ^SPECIAL ABILITIES^
+|HUMAN |2D |2D |2D |2D |2D |2D |The dominant species in the galaxy.|
+|BARAGWIN |1D+2 |1D+1 |2D+1 |2D |2D+2 |2D |Favored: Weapon or Armor Repair; Thick Hide:+2 Armor|
+|BOTHAN |2D |2D |1D+1 |3D |1D+2 |2D |Emo Fur: ripples according to emotional state|
+|BESALISK |1D+2 |2D+1 |1D+2 |2D |2D+2 |1D+2 |Extra Limbs: +1D Climb and Brawl; Food Stores (1 week)|
+|CULISETTO |2D+2 |1D+1 |2D |2D+2 |1D+1 |2D |Ectoparasite: drink blood to heal (treat as self admin Medpac)|
+|DEVARONIAN |2D |3D |1D |2D+2 |2D+1 |1D |Favored: Intimidate or Stealth|
+|DUG |2D+1 |1D+2 |2D+1 |1D+2 |2D |2D |Favored: Athletics or Intimidate; Bellow|
+|DUROS |2D |1D+1 |3D |1D+2 |2D |2D |Favored: Astrogation, Pilot Starship, Sensors, or Ship Repair|
+|GAND |1D+2 |2D |1D+2 |2D+2 |2D+1 |1D+2 |Gas Breather; Chitin +1D Armor; Findsmen ritual +2D Search|
+|GIGORAN |2D |1D |1D+1 |1D+2 |3D+2 |2D+1 |Gas Breather; +1D Stamina to resist cold|
+|GRAN |2D |1D+2 |2D |2D+2 |2D |1D+2 |Infrared Vision; +1D to Search (visual)|
+|HARCH |1D+1 |3D |1D+2 |2D+1 |1D+2 |2D |Extra Limbs: +1D Climb and Brawl; Venom (3D Dam/d6 Days)|
+|HUTT |1D+1 |2D+2 |1D |2D+2 |3D |1D+1 |Slow, can’t run; +1D Str vs physical damage; Resist Force +2D.|
+|IKTOTCHI |1D+2 |2D |2D+1 |2D |2D |2D |+1D to Initiative; Favored: Pilot Starship or Starship Repair|
+|ITHORIAN |2D |2D+2 |1D+1 |2D+1 |2D |1D+2 |Peaceful; Favored: Survival; Bellow (Str Sonic Damage)|
+|JAWA |2D |2D |2D+1 |1D+2 |1D |3D |Favored: Tec Skills|
+|LASAT |2D |1D+2 |1D+2 |2D |3D |1D+2 |Favored: Athletics|
+|KARKARODON |2D |1D+1 |2D |1D+2 |3D |2D |Aquatic; Bite for Str+2D Damage; Favored: Search (Scent)|
+|KUBAZ |1D+2 |2D |1D+2 |3D |1D+2 |2D |Favored: Stealth; Nightvision|
+|MON CAL |2D |2D |2D+1 |1D+1 |2D |2D+1 |Aquatic; Hatred: Slavery|
+|NAUTOLAN |2D |2D |2D |2D |2D+1 |1D+2 |Aquatic; Low-Light Vision; Emo Sense (+1D to interaction)|
+|NEMOIDIAN |1D+2 |2D+1 |2D |2D+2 |1D+2 |2D+2 |Favored: one Tec Skill|
+|ORTOLAN |1D+2 |2D |1D |2D+1 |2D+2 |2D+1 |Foraging: +1D to Search for Food; Iron guts: +1D vs Poison|
+|QUARREN |2D |1D+2 |2D |2D+1 |2D+1 |1D+2 |Aquatic|
+|RODIAN |3D |1D+2 |1D+2 |2D |2D+2 |1D |Favored: Intimidate; Nightvision|
+|SAKIYAN |2D |2D |2D |2D |1D+2 |2D+1 |+1D to Initiative; Favored: Repulsor Skills|
+|SKRILLING |1D+2 |1D+2 |2D |2D+2 |2D+2 |1D+1 |Favored: Bargain; Acid Spray: 2D Damage|
+|TALZ |2D |1D+2 |1D+2 |2D |3D |1D+2 |Hatred: Slavery; Favored: Survival|
+|TOGNATHIAN |2D+2 |2D |1D+2 |1D+2 |2D+1 |1D+2 |Gas Breather; Chitin +1D Armor; Telepathy w/ Tognathians|
+|TOGRUTAN |2D+2 |2D |2D |2D |1D+2 |1D+2 |Echolocation; Teamworkers (double assist points)|
+|TOYDARIAN |3D |2D |2D+1 |1D+1 |1D+1 |2D |Flight; Resist Force +2D.|
+|TRANDOSHAN |2D |1D+1 |1D+2 |2D |4D |1D |Infrared Vision; Clumsy (-1D to fine motor); Regeneration|
+|TWI’LEK |2D |2D |1D+2 |3D+1 |2D |1D |Secret Headtail Communication.|
+|WHIPID |2D |2D |1D+2 |2D+1 |3D |1D |Favored: Survival; Claws: Str+1D Damage|
+|WEEQUAY |2D+1 |1D+2 |2D |2D |2D+1 |1D+2 |Telepathy w/ Weequays; Horned Hide:+1 Armor/Dam|
+|WOOKIE |2D |1D |2D |1D |4D |1D+2 |Favored: Athletics or Brawl; Climbing Claws: +1D to climbing|
+|ZABRAK |2D |1D+2 |2D |2D |2D+1 |2D |Favored: Stamina; Horns: Str+2 Damage.|
+//**Favored Skills:** cost half as much to purchase during character creation, but still limited to a +2D starting maximum.//
+
+====== DROIDS ======
+^DROIDS ^DEX ^KNO ^MEC ^PER ^STR ^TEC ^SPECIAL FEATURES: all droids choose 3 from below:^
+|Assassin Droid |3D |1D |1D |2D |2D |1D | - Alternate Propulsion (jets/treads/repulsors/etc) \\ - Armor Plating (+2D to Str vs Damage OR +1D Str)\\ - Database Circuitry (+2D to a particular Kno skill OR +1D Kno)\\ - Mounted Weapon (Dam = Str+2D, Range = similar weapon)\\ - Personality Matrix (speak Basic, behavior mods, can learn)\\ - Scanner Array (+2D to search, 1km/10km/100km/etc/PER)\\ - Toolkit Appendages (+2D to a particular Tec skill OR +1D Tec)\\ - Something missing? Talk to GM!|
+|Astromech Droid |1D |2D |2D |1D |1D |3D | ::: |
+|Battle Droid |3D |1D |1D |1D |3D |1D | ::: |
+|Labor Droid |2D |1D |1D |1D |4D |1D | ::: |
+|Medical Droid |1D |3D |1D |1D |1D |3D | ::: |
+|Probe Droid |2D |1D |1D |3D |2D |1D | ::: |
+|Protocol Droid |1D |3D |1D |3D |1D |1D | ::: |
+|Security Droid |2D |1D |1D |2D |3D |1D | ::: |
+|Utility Droid |2D |1D |2D |1D |2D |2D | ::: |
+//All droids have interface jacks, and speak Binary.//
+
+====== QUICK TEMPLATES ======
+^PROFESSION ^DEXTERITY ^KNOWLEDGE ^MECHANICAL ^PERCEPTION ^STRENGTH ^TECHNICAL ^
+|ARCHAEOLOGIST |+1D |+2D |+2 |+1D+1 |+1D |-- |
+|BODYGUARD |+1D+2 |+1D+2 |+1 |+1D+2 |+1D |+1 |
+|BOUNTY HUNTER |+2D |+2 |+2 |+1D |+1D+2 |-- |
+|CAPTAIN |+2 |+1D |+1D+2 |+1D+1 |+1 |+1D |
+|COMMANDO |+1D |+1D |+1 |+1D |+1D+2 |+1D |
+|CON ARTIST |-- |+2D |+2 |+2D |-- |+1D+1 |
+|DANDY |+1D +|2D |-- |+2D |+1D |-- |
+|DIPLOMAT |+1D |+2D |+2 |+1D+1 |+1D |-- |
+|DOCTOR |+1D |+1D |-- |+2D |-- |+2D |
+|ENGINEER |+1 |+2D |+2 |+1 |+2 |+2D |
+|ENTERTAINER |+1D+1 |+1D+2 |+1 |+1D+2 |+1D |-- |
+|EXPLORER |+2 |+2D |+1D |-- |+1D |+1D+1 |
+|GAMBLER |+1D+2 |+1D |+1 |+2D |+2 |+1 |
+|GUN RUNNER |+1D+2 |+1D |-- |+1D+2 |+1D+1 |+1 |
+|HISTORIAN |+1D |+2D |+2 |+1D+2 |+2 |-- |
+|HUNTER |+2D |+1D+1 |+2 |+1D |+1D |-- |
+|INVESTIGATOR |+1D |+1D |+1D |+2D |+1 |+2 |
+|KID |+1D+2 |+2 |+1D |+1D+2 |+1 |+2 |
+|MERCENARY |+1D+2 |+2 |+2 |+1 |+1D+2 |+1D |
+|NAVIGATOR |+2 |+1 |+2D |+1D+1 |+2 |+1D |
+|NOBLE |+1D+1 |+1D+1 |+2 |+2D |+2 |-- |
+|OUTLAW |+2D |+1D |+2 |-- |+1D+1 |+1D |
+|PILGRIM |+1 |+2D |+1 |+2D |+1D |+1 |
+|PILOT |+1D |-- |+2D |+1D |+1D |+1D |
+|PIRATE |+1D+2 |-- |+1D+2 |+1D |+1D |+2 |
+|RACER |+1D+1 |-- |+2D |-- |+2 |+2D |
+|RANGER |+1D |+1D+1 |+1 |+2D |+1D |+1 |
+|RESCUER |-- |+1D |+2D |+1D |+1D |+1D |
+|RETAINER |+1D |+2 |+1D |+1D |+1D+1 |+1D |
+|SABOTEUR |+1D+1 |+1 |+2 |+1D |+1D |+1D+2 |
+|SAVAGE |+1D+2 |-- |+1 |+1D+2 |+2D |+1 |
+|SCAVENGER |+1D |+1 |+1 |+1D+2 |+1D |+1D+2 |
+|SENATOR |+1D |+2D |+1D |+2D |-- |-- |
+|SLICER |+2 |+1D+2 |-- |+1D+2 |-- |+2D |
+|SMUGGLER |+1D+1 |+1 |+1D+2 |+1D |+1D |+2 |
+|SOLDIER |+1D+1 |+1 |+1 |+1D+1 |+1D+2 |+1D |
+|SPY |+1D+1 |+1D+1 |-- |+2D |+1D |+1 |
+|THUG |+1D+1 |+1D |-- |+1D |+2D |+2 |
+|TINKER |-- |+1D+2 |+1D+2 |+1 |+1 |+2D |
+|TRADER |+1D |+1D |+1D+2 |+1D+1 |-- |+1D |
+|VAGABOND |+1D |+1D+1 |+2 |+1D+1 |+1D |+2 |

@@ -1,0 +1,127 @@
+category,item,system,station,price,max_cap,suppressed,often_illegal,est_sell150,est_unit_profit150,est_total_profit150,supply_rate_min,supply_rate_max
+Consumer Items,Tauri Chimes,39 Tauri,Porta,924,17,0,0,16670.55,15746.55,267691.35,1,15
+Foods,Aepyornis Egg,47 Ceti,Glushko Station,2654,7,0,0,19049.55,16395.55,114768.85,4,4
+Foods,Ceti Rabbits,47 Ceti,Kaufmanis Hub,1675,12,0,0,17704.05,16029.05,192348.60,11,11
+Consumer Items,Ophiuch Exino Artefacts,36 Ophiuchi,Katzenstein Dock,4356,11,0,0,21389.55,17033.55,187369.05,,
+Consumer Items,Ultra-Compact Processor,17 Lyrae,Langford Enterprise,19350,1,0,0,42004.95,22654.95,22654.95,,
+Consumer Items,Altairian Skin,Altair,Solo Orbiter,758,22,0,0,16442.40,15684.40,345056.80,2,22
+Consumer Items,Alacarakmo Skin Art,Alacarakmo,Weyl Gateway,1421,14,0,0,17353.05,15932.05,223048.70,9,14
+Foods,Eden Apples of Aerial,Aerial,Andrade Legacy,615,15,0,0,16245.45,15630.45,234456.75,,
+Medicines,Aganippe Rush,Aganippe,Julian Market,8966,4,0,1,27727.05,18761.05,75044.20,4,4
+Legal Drugs,Centauri Mega Gin,Alpha Centauri,Hutton Orbital,3319,7,0,1,19964.10,16645.10,116515.70,1,6
+Consumer Items,The Hutton Mug,Alpha Centauri,Hutton Orbital,125,30,0,0,15572.70,15447.70,463431.00,,
+Medicines,Alya Body Soup,Alya,Malaspina Gateway,454,16,0,0,16025.10,15571.10,249137.60,2,7
+Legal Drugs,Chateau De Aegaeon,Aegaeon,Schweickart Station,1267,14,0,0,17142.45,15875.45,222256.30,0,9
+Foods,Any Na Coffee,Any Na,Libby Orbital,1790,11,0,0,17862.00,16072.00,176792.00,2,11
+Consumer Items,Anduliga Fire Works,Anduliga,Celsius Estate,891,16,0,0,16625.70,15734.70,251755.20,0,11
+Foods,Arouca Conventula Sweets,Arouca,Shipton Orbital,1191,12,0,0,17037.15,15846.15,190153.80,1,6
+Technology,Az Cancri Formula 42,AZ Cancri,Fisher Station,6442,7,0,0,24258.00,17816.00,124712.00,1,5
+Foods,Baltha'sine Vacuum Krill,Baltah'Sine,Baltha'Sine Station,825,18,0,0,16534.05,15709.05,282762.90,2,10
+Legal Drugs,Bast Snake Gin,Bast,Hart Station,1080,10,0,1,16885.05,15805.05,158050.50,4,5
+Textiles,Banki Amphibious Leather,Banki,Antonio de Andrade Vista,634,18,0,0,16272.75,15638.75,281497.50,,
+Weapons,Borasetani Pathogenetics,Borasetani,Katzenstein Terminal,8269,0,1,1,26769.60,18500.60,0.00,,
+Textiles,Belalans Ray Leather,Belalans,Boscovich Ring,882,10,0,0,16612.05,15730.05,157300.50,3,6
+Salvage,Crystalline Spheres,Bento,Snow Moon,6125,12,0,0,23821.20,17696.20,212354.40,,
+Foods,Chi Eridani Marine Paste,Chi Eridani,Steve Masters,784,18,0,0,16477.50,15693.50,282483.00,5,12
+Foods,CD-75 Kitten Brand Coffee,CD-75 661,Kirk Dock,2373,12,0,0,18663.45,16290.45,195485.40,2,11
+Metals,Cherbones Blood Crystals,Cherbones,Chalker Landing,12550,3,0,0,32656.65,20106.65,60319.95,2,3
+Chemicals,Delta Phoenicis Palms,Delta Phoenicis,Trading Post,412,17,0,0,15966.60,15554.60,264428.20,2,17
+Legal Drugs,Pavonis Ear Grubs,Delta Pavonis,Hooper Relay,662,25,0,1,16309.80,15647.80,391195.00,,
+Foods,Coquim Spongiform Victuals,Coquim,Hirayama Installation,255,20,0,0,15750.15,15495.15,309903.00,4,14
+Legal Drugs,Motrona Experience Jelly,Dea Motrona,Pinzon Dock,7420,13,0,1,25601.55,18181.55,236360.15,11,11
+Textiles,Damna Carapaces,Damna,Nemere Market,315,15,0,0,15834.00,15519.00,232785.00,2,8
+Foods,Diso Ma Corn,Diso,Shifnalport,340,15,0,0,15867.15,15527.15,232907.25,1,10
+Consumer Items,Eleu Thermals,Eleu,Finney Dock,864,13,0,0,16588.65,15724.65,204420.45,2,4
+Foods,Deuringas Truffles,Deuringas,Shukor Hub,1892,7,0,0,18002.40,16110.40,112772.80,2,5
+Legal Drugs,Indi Bourbon,Epsilon Indi,Mansfield Orbiter,1288,11,1,1,17171.70,15883.70,174720.70,3,9
+Foods,Fujin Tea,Fujin,Futen Spaceport,992,10,0,0,16764.15,15772.15,157721.50,2,10
+Legal Drugs,Eranin Pearl Whiskey,Eranin,Azeban City,1620,8,0,1,17628.00,16008.00,128064.00,,
+Foods,Esuseku Caviar,Esuseku,Savinykh Orbital,2450,10,0,0,18768.75,16318.75,163187.50,1,10
+Foods,Ethgreze Tea Buds,Ethgreze,Bloch Station,3261,7,0,0,19884.15,16623.15,116362.05,1,7
+Consumer Items,Eshu Umbrellas,Eshu,Shajn Terminal,2050,9,0,0,18218.85,16168.85,145519.65,1,6
+Consumer Items,Zeessze Ant Grub Glue,Zeessze,Nicollier Hanger,374,18,0,0,15913.95,15539.95,279719.10,1,18
+Legal Drugs,Gerasian Gueuze Beer,Geras,Yurchikhin Port,450,20,0,1,16019.25,15569.25,311385.00,9,22
+Legal Drugs,Geawen Dance Dust,Geawen,Obruchev Legacy,1022,26,0,1,16805.10,15783.10,410360.60,26,26
+Weapons,Gilya Signature Weapons,Gilya,Bell Orbital,7290,7,1,1,25424.10,18134.10,126938.70,,
+Foods,Goman Yaupon Coffee,Goman,Gustav Sporer Port,1451,16,0,0,17395.95,15944.95,255119.20,3,11
+Foods,Haidne Black Brew,Haiden,Searfoss Enterprise,1347,15,0,1,17251.65,15904.65,238569.75,1,8
+Consumer Items,Havasupai Dream Catcher,Havasupai,Lovelace Port,9636,2,0,0,28649.40,19013.40,38026.80,1,2
+Foods,Ceremonial Heike Tea,Heike,Brunel City,1920,8,0,0,18039.45,16119.45,128955.60,1,6
+Foods,Live Hecate Sea Worms,Hecate,RJH1972,1190,13,0,0,17037.15,15847.15,206012.95,2,6
+Metals,Helvetitj Pearls,Helvetitj,Friend Orbital,3620,6,0,0,20377.50,16757.50,100545.00,1,3
+Foods,HIP 10175 Bush Meat,HIP 10175,Stefanyshyn-Piper Station,2105,13,0,0,18294.90,16189.90,210468.70,4,12
+Foods,HIP Proto-Squid,HIP 41181,Andersson Station,1488,5,0,0,17446.65,15958.65,79793.25,1,11
+Legal Drugs,Burnham Bile Distillate,HIP 59533,Burnham Beacon,806,16,0,0,16508.70,15702.70,251243.20,13,13
+Foods,Uszaian Tree Grub,Uszaa,Guest Installation,965,14,0,0,16727.10,15762.10,220669.40,3,14
+Chemicals,HIP Organophosphates,HIP 80364,Stasheff Colony,385,19,0,0,15929.55,15544.55,295346.45,,
+Foods,HR 7221 Wheat,HR 7221,Veron City,415,16,0,0,15970.50,15555.50,248888.00,1,14
+Weapons,Holva Duelling Blades,Holva,Kreutz Orbital,6518,7,0,1,24361.35,17843.35,124903.45,1,6
+Foods,Giant Irukama Snails,Irukama,Blaauw City,1810,16,0,0,17889.30,16079.30,257268.80,2,7
+Foods,Jaroua Rice,Jaroua,McCool City,385,18,0,0,15929.55,15544.55,279801.90,2,16
+Medicines,Kachirigin Filter Leeches,Kachirigin,Nowak Orbital,467,10,0,0,16042.65,15575.65,155756.50,2,9
+Consumer Items,Jaradharre Puzzle Box,Jaradharre,Gohar Station,12706,6,0,0,32871.15,20165.15,120990.90,1,6
+Textiles,Jotun Mookah,Jotun,Icelock,1252,32,0,0,17121.00,15869.00,507808.00,4,24
+Legal Drugs,Onion Head,Kappa Fornacis,Harvestport,765,8,0,1,16452.15,15687.15,125497.20,,
+Foods,Karsuki Locusts,Karsuki Ti,West Market,915,18,0,0,16658.85,15743.85,283389.30,7,11
+Legal Drugs,Kamitra Cigars,Kamitra,Hammel Terminal,6218,6,0,1,23949.90,17731.90,106391.40,1,4
+Consumer Items,Karetii Couture,Karetii,Sinclair Platform,5225,5,0,0,22584.90,17359.90,86799.50,2,5
+Weapons,Kamorin Historic Weapons,Kamorin,Godwin Vision,2650,12,0,1,19043.70,16393.70,196724.40,1,8
+Legal Drugs,Kongga Ale,Kongga,Laplace Ring,585,16,0,1,16204.50,15619.50,249912.00,1,13
+Chemicals,Koro Kung Pellets,Korro Kung,Lonchakov Orbital,220,20,0,0,15703.35,15483.35,309667.00,6,14
+Consumer Items,Kinago Violins,Kinago,Fozard Ring,7279,3,0,0,25408.50,18129.50,54388.50,1,1
+Legal Drugs,Leestian Evil Juice,Leesti,George Lucas,457,14,0,1,16029.00,15572.00,218008.00,1,10
+Foods,Azure Milk,Leesti,George Lucas,4123,7,0,0,21069.75,16946.75,118627.25,2,7
+Legal Drugs,Lavian Brandy ,Lave,Lave Station,3500,7,0,0,20211.75,16711.75,116982.25,,
+Textiles,Chameleon Cloth,LDS 883,Smith Reserve,1664,7,0,0,17688.45,16024.45,112171.15,3,5
+Foods,Void Extract Coffee,LFT 1421,Ehrlich Orbital,2349,15,0,0,18630.30,16281.30,244219.50,3,11
+Medicines,Honesty Pills,LP 375-25,King Gateway,1365,13,0,1,17277.00,15912.00,206856.00,13,13
+Machinery,Non Euclidian Exotanks,LTT 8517,Euclid Terminal,892,16,0,0,16625.70,15733.70,251739.20,,
+Foods,LTT Hyper Sweet,LTT 9360,Smeaton Orbital,222,19,0,0,15705.30,15483.30,294182.70,,
+Chemicals,Medb Starlube,Medb,Vela Dock,416,22,0,0,15972.45,15556.45,342241.90,,
+Foods,Mechucos High Tea,Mechucos,Brandenstein Port,1345,8,0,0,17249.70,15904.70,127237.60,,
+Consumer Items,Momus Bog Spaniel,Momus Reach,Tartarus Point,1825,7,0,0,17908.80,16083.80,112586.60,3,7
+Foods,Mukusubii Chitin-os,Mukusubii,Ledyard Dock,654,15,0,0,16300.05,15646.05,234690.75,3,5
+Foods,Mulachi Giant Fungus,Mulachi,Clark Terminal,86,19,0,0,15518.10,15432.10,293209.90,11,19
+Foods,Mokojing Beast Feast,Mokojing,Noli Terminal,2681,7,0,0,19086.60,16405.60,114839.20,1,3
+Consumer Items,Nguna Modern Antiques,Nguna,Biggle Hub,919,18,0,0,16662.75,15743.75,283387.50,2,9
+Foods,Neritus Berries,Neritus,Toll Ring,850,13,0,0,16569.15,15719.15,204348.95,6,7
+Consumer Items,Njangari Saddles,Njangari,Lee Hub,650,13,0,0,16294.20,15644.20,203374.60,7,7
+Consumer Items,Soontill Relics,Ngurii,Cheranovsky City,17000,5,0,0,38773.80,21773.80,108869.00,1,4
+Metals,Ngandandari Fire Opals,Ngadandari,Napier Terminal,16028,10,0,0,37438.05,21410.05,214100.50,3,5t
+Salvage,Personal Gifts,Njambalba,Frost Dock,12250,20,0,0,32243.25,19993.25,399865.00,,
+Foods,Ochoeng Chillies,Ochoeng,Roddenberry Gateway,998,14,0,0,16771.95,15773.95,220835.30,1,9
+Slavery,Master Chefs,Noti,Weber Gateway,18000,13,0,1,40148.55,22148.55,287931.15,,
+Foods,Orrerian Vicious Brew,Orrere,Sharon Lee Free Market,533,16,0,1,16132.35,15599.35,249589.60,6,10
+Machinery,Giant Verrix,Phiagre,Greeboski's Outpost,6522,6,0,0,24367.20,17845.20,107071.20,,
+Textiles,Rapa Bao Snake Skins,Rapa Bao,Flagg Gateway,550,11,0,0,16155.75,15605.75,171663.25,5,6
+Foods,Albino Quechua Mammoth Meat,Quechua,Crown Ring,2538,10,0,0,18889.65,16351.65,163516.50,1,6
+Consumer Items,Rajukru Multi-Stoves,Rajukru,Snyder Terminal,682,22,0,0,16337.10,15655.10,344412.20,6,27
+Legal Drugs,Rusani Old Smokey,Rusani,Fernandes Market,5810,10,0,1,23388.30,17578.30,175783.00,3,5
+Medicines,Waters of Shintara,Shinrarta Dezhra,Jameson Memorial,7421,6,0,0,25603.50,18182.50,109095.00,4,6
+Foods,Sanuma Decorative Meat,Sanuma,Dunyach Gateway,860,19,0,0,16582.80,15722.80,298733.20,1,17
+Legal Drugs,Tarach Spice,Tarach Tor,Tranquillity,1056,8,0,1,16851.90,15795.90,126367.20,1,7
+Legal Drugs,Lucan Onion Head,Tanmark,Cassie-L-Peia,815,8,0,1,16520.40,15705.40,125643.20,,
+Foods,Tanmark Tranquil Tea,Tanmark,Cassie-L-Peia,1814,9,0,0,17895.15,16081.15,144730.35,1,5
+Legal Drugs,Thrutis Cream,Thrutis,Kingsbury Dock,925,11,0,1,16672.50,15747.50,173222.50,1,1
+Medicines,Terra Mater Blood Bores,Terra Mater,GR8Minds,7824,24,0,1,26157.30,18333.30,439999.20,,
+Consumer Items,Tiolce Waste 2 Paste,Tiolce,Gordon Terminal,1153,16,0,0,16984.50,15831.50,253304.00,9,9
+Chemicals,Toxandji Virocide,Toxandji,Tsunenaga Orbital,535,18,0,0,16136.25,15601.25,280822.50,2,14
+Medicines,V Herculis Body Rub,V1090 Herculis,Kaku Plant,160,20,0,0,15619.50,15459.50,309190.00,2,15
+Textiles,Vanayequi Ceratomorpha Fur,Vanayequi,Clauss Hub,615,10,0,0,16245.45,15630.45,156304.50,3,10
+Medicines,Vega Slimweed,Vega,Taylor City,2398,8,0,0,18696.60,16298.60,130388.80,2,6
+Consumer Items,Vidavantian Lace,Vidavanta,Lee Mines,6771,5,0,0,24710.40,17939.40,89697.00,2,2
+Consumer Items,Uzumoku Low-G Wings,Uzumoku,Sverdrup Ring,8496,7,0,0,27081.60,18585.60,130099.20,4,7
+Machinery,Volkhab Bee Drones,Volkhab,Vernadsky Dock,3262,8,0,0,19886.10,16624.10,132992.80,3,3
+Foods,Utgaroar Millennial Eggs,Utgaroar,Fort Klarix,1795,15,0,0,17867.85,16072.85,241092.75,3,10
+Foods,Witchhaul Kobe Beef ,Witchhaul,Hornby Terminal,4520,9,0,0,21615.75,17095.75,153861.75,,
+Foods,Wheemete Wheat Cakes,Wheemete,Eisinga Enterprise,262,19,0,0,15759.90,15497.90,294460.10,5,10
+Legal Drugs,Wolf Fesh,Wolf 1301,Saunders's Dive,712,13,1,1,16380.00,15668.00,203684.00,,
+Machinery,Wulpa Hyperbore Systems,Wulpa,Williams Gateway,1175,10,0,0,17015.70,15840.70,158407.00,,
+Legal Drugs,Yaso Kondi Leaf,Yaso Kondi,Wheeler Market,6060,5,0,1,23731.50,17671.50,88357.50,1,1
+Legal Drugs,Wuthielo Ku Froth,Wuthielo Ku,Tarter Dock,420,17,0,1,15978.30,15558.30,264491.10,1,16
+Technology,Xihe Biomorphic Companions,Xihe,Zhen Dock,4482,10,0,0,21563.10,17081.10,170811.00,3,10
+Legal Drugs,Onionhead Alpha Strain,Xelabara,Navigator Market,765,6,0,1,16452.15,15687.15,94122.90,,
+Consumer Items,Leathery Eggs,Zaonce,Ridley Scott,24350,1,0,0,48880.65,24530.65,24530.65,1,1
+Medicines,Pantaa Prayer Sticks,George Pantazis,Zamka Platform,1815,17,0,0,17895.15,16080.15,273362.55,3,17
+Metals,Sothis Crystalline Gold,Sothis,Newholm Station,15905,40,0,0,37268.40,21363.40,854536.00,,
+Consumer Items,Jaques Queintian Still,Gliese 1269,Jaques Station,8435,18,0,0,26997.75,18562.75,334129.50,,

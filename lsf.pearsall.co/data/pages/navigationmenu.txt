@@ -1,0 +1,7 @@
+  * ==[[start|Quick Reference]]==
+  * [[Skills|Attributes and Skills]]
+  * [[Aliens|Aliens and Droids]]
+  * [[Planets|Planets and Systems]]
+  * [[Characters|Characters]]
+  * [[Equipment|Weapons and Technology]]
+  * [[Starships|Vehicles and Vessels]]

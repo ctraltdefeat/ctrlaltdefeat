@@ -1,0 +1,36 @@
+====== Attributes and Skills ======
+=====How Good Are you?=====
+|1D |Below human average for an attribute or skill. | Avg 3|
+|2D |Untrained human average for an attribute and many skills. Most citizens have 2D in all attributes and skills. |  6|
+|3D |Average level of training for a human. Big Damn Heroes (like your character) have Attributes around 3D. |  9|
+|4D |Professional level of training for a human. Some citizens have 4D in several skills. |  12|
+|5D |Professional with many many years experience. |  15|
+|6D |Considered about the best in a city or geographic area. About 1 in 100,000 people will have training to this skill level. |  18|
+|7D |Among the best on a continent. About 1 in 1,000,000 people will have training to this skill level. |  21|
+|8D |Among the best on a planet. About 1 in 10,000,000 people will have training to this skill level. |  24|
+|9D |One of the best in several systems. About 1 in a billion will have training to this skill level. |  27|
+|10D |One of the best in a sector. |  30|
+|11D |One of the best in a region. |  33|
+|12D |One of the best in the galaxy. |  36|
+
+=====Dexterity=====
+^ Skill     ^ Time       ^ Specializations         ^ Description ^
+|**Acrobatics** |1+ round| Styles, apparatus, terrain |Movement; may substitute for Running or Climbing/Jumping or reduce fall damage in gamemaster-approved situations |
+|**Archaic Guns** | 1 rd |Type/model |Ranged combat; e.g. flintlocks, muskets, black powder |
+|**Armor Weapons** |1 rd |Type/model of weapon |Ranged combat; for weapons attached to armor, e.g. blasters, firearms, flamethrowers. Missile weapons are separate. |
+|**Blaster** |1 rd |Type/model |Ranged combat; e.g. blaster pistol, blaster rifle, repeating blaster; not used for blaster artillery or vehicle blasters |
+|**Blaster Artillery** |1 rd |Type/model |Ranged combat; e.g. surface-to-air, anti-infantry, anti-vehicle, or model |
+|**Bowcaster** |1 rd |None |Ranged combat; only works for Wookiee Bowcaster and similar (not for other blasters or crossbows) |
+|**Bows** |1 rd |Type/model |Ranged combat; e.g. longbow, Tunroth Klirun bow, crossbow (not bowcaster) |
+|**Brawling Parry** |1 rd |Style, e.g. martial arts |Reaction; used to avoid brawling or melee attack while unarmed or using blaster; +10 to attacker’s roll if armed |
+|**Dodge** |1 rd| Type of attack| Reaction; used to avoid ranged attack, can use as sole action for rest of round (“full dodge”) |
+|**Firearms** |1 rd |Type/model |Ranged combat; e.g. pistols, rifles, machine guns, slugthrowers, anything with a simple physical projectile.|
+|**Flight** | 1+ rd | None | Movement; used by characters/creatures with natural flight ability. Not for jetpacks or powered armor (Mechanical). |
+|**Grenade** |1 rd | Type/model |Ranged combat; if miss, roll 1D and see grenade deviation chart in Rules; also covers throwing rocks/balls |
+|**Lightsaber** |1 rd |None |Melee and reaction skill; if failure/miss by 10+, damage self. Can parry blaster bolts if Lightsaber Combat Force power is up. |
+|**Melee Combat** |1 rd |Type/model| Melee attack; includes impromptu weapons but not natural claws/teeth |
+| **Melee Parry** |1 rd |Weapon held or attacked| Used to avoid brawling or melee attack if defender is holding a melee weapon; +5 to use vs unarmed attacker |
+|**Missile Weapons** |1 rd |Type/model |Ranged combat; for missile/grenade launchers, grappling hooks, net guns, snare guns |
+|**Pick Pocket** |1 rd |None | Opposed vs Perception/Search:\\ **Target bonus:** +10 if very small crowd or on guard, +5 if light crowd or few distractions\\ **Operator bonus:** +10 if congested crowd or major distraction, +5 if crowded, dark, or minor distraction\\ **Success:** 21+: won’t notice, 16-20: notice after 1 min, 11-15: 3 rd, 6-10: 2 rd, 0-5: object snagged or still held\\ **Fail:** 1-5: target notices and can react next round; 6+: target notices immediately Running 1+ rd Distance, terrain Movement on foot; free action for moving ≤1 Move in VE/E/Mod terrain. See Movement table |
+|**Thrown Weapons** |1 rd |Type/model |Ranged combat; e.g. throwing knives, sling, spear |
+|**Vehicle Blasters** |1 rd |Type/model |Ranged combat; used to fire speeder- or walker-mounted blaster cannons or starship-mounted speeder-scale |

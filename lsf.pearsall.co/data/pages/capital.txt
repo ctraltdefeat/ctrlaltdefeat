@@ -1,0 +1,9 @@
+===== List of Capital Ships =====
+====Fringe=====
+  * [[supersmelter| Supersmelter, The Pride of the Belt]]
+  * [[novship | Susreap Nov’s Flying Menagerie]]
+  * [[mondyship | Mondy Cleese’s Flagship]]
+  * [[lobstertail| The Lobster Tail]]
+====Imperial====
+  * [[vsd_chariot | Victory Star Destroyer Chariot]]
+  * [[isd_apoc | Star Destroyer Apocalypse]]

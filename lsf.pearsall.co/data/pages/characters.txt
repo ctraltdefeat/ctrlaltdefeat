@@ -1,0 +1,17 @@
+====== Characters ======
+
+=====List of Major NPC Characters=====
+
+[[chompers| Chompérs Dustweather]]
+
+====== NPC Charts ======
+===== SCUM & FRINGE =====
+^TYPE ^DEX ^KNO ^MEC ^PER ^STR ^TEC ^ARMOR ^SKILLS, WEAPONS OR NOTES. ^
+|**MMC Shipboard Security** |3D+1 |3D |2D |2D |4D |2D |- |**Blaster 3D+2 (4D Dam)** |
+|**Typical "Poundie"**| 2D+1| 1D+2| 2D| 1D+2| 3D| 1D+1|-| **Blaster 3D (3D Dam), Scholar: mining 3D**|
+|**Bounty Hunter** |3D |1D+2 |1D+2 |2D |2D+2 |1D |+2/— |**Blaster 4D (4D Dam), Brawl 3D+2, Dodge 4D, Melee 4D
+(4D+2 Dam), Search 3D, Stealth 3D, Streetwise 2D+2** |
+
+===== IMPERIAL FORCES =====
+^TYPE ^DEX ^KNO ^MEC ^PER ^STR ^TEC ^ARMOR ^SKILLS, WEAPONS OR NOTES. ^
+|**Cinematic Stormtroopers \\ (v. difficult)** | 4D+1|2D+1| 2D+2|3D|3D+2|2D|+1D/+2D| **Blaster 6D+2 (8D+2 MFTAS or Aimed) (5D Dam), Brawling Parry 5D, Dodge 5D, Energy Dod. 6D+2, Melee 4D+2, Melee Parry 4D+2, Grenade 5D (Dam: 5Dphys or 5Dstun), Vehicle Weap. 4D+1, Intimidation 3D+2, Bureaucracy 3D+1, Survival 3D, Tactics 4D, Repulsorlift Ops 4D, Command 3D, Search 4D (+2D smoke, darkness, and long range), Brawling 6D, Climbing/Jump 4D+1, Stamina 4D+2, Armor Repair 2D+2, Blaster Repair 3D, Demolitions 3D, Security 2D\\ \\ - Stormtrooper Armor (Advanced Breathing Filters, Electrobinoculars, Comlink, 20 minute air & heat)\\ - Two grappling hooks, and 20 meters high-tension wire. \\ - Glowrod\\ - 4 spare blaster power packs\\ - 3 ion flares\\ - Energy rations and water packs\\ - Spare comlink\\ - 2 combat medpacs.\\ - Binders\\ - Spare armor power cells\\ - Blaster/Armor Tool kit** |

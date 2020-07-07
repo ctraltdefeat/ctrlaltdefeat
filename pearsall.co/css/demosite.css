@@ -1,0 +1,119 @@
+/* External CSS for demosite */
+/* Usually name the file in a top comment, then go back to the html in order to tell the HTML where to find this file.*/
+
+body {/*Here I'm applying a style to everything in the body tag. I'm telling it to always stretch to the height of the page, to have no margins, to use our custom Font we selected in the HEAD section, and to set a color on all the lettering in the Body section.*/
+    height: 100%;
+    margin: 0;
+    font-family: Lato;
+    color: #777;
+}
+
+body.play{background-color:black;}
+
+html {
+    height:100%; 
+    /*Here I'm telling the HTML container to stretch the height of the page too, for some cool full-page photo effects later on.*/}
+
+#photoOne {    
+    background-image: url(../demoimg/work1.jpeg);
+    min-height: 100%;
+    }
+#photoOne.play {    
+    background-image: url(../demoimg/play1.jpeg);
+    }
+
+#photoTwo {    
+    background-image: url(../demoimg/work2.jpeg);
+    min-height: 40%;
+    }
+
+#photoTwo.play {    
+    background-image: url(../demoimg/play2.jpeg);
+    }
+
+#photoThree {    
+    background-image: url(../demoimg/work3.jpeg);
+    min-height: 40%;
+    }
+
+#photoThree.play {    
+    background-image: url(../demoimg/play3.jpeg);
+    }
+.backgroundImages{
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+#blurbTwo{
+    background-color:transparent;
+    font-size:25px;
+    color: black;
+    opacity: 1;
+    }
+
+#blurbTwo.play{
+    color: white;
+    }
+
+#blurbThree{
+    background-color:transparent;
+    font-size:25px;
+    color: black;
+    opacity: 1;
+    }
+#blurbThree.play{
+    color: white;
+    opacity: 1;
+    }
+
+.nameTitleWrapper{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    }
+
+span.nameTitle {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    }
+
+.informationBox {
+    color: #777;
+    background-color:white;
+    text-align:center;
+    padding:50px 80px;
+    text-align: justify;
+    }
+.informationBox.play {
+    color: whitesmoke;
+    background-color: black;
+    }
+
+.copyright {font-size:70%;}
+
+#workPlayBtn {
+background-color: darkorange;
+    color: white;
+    position: inherit;
+    padding: 15px;
+    font-size: 23px;
+    letter-spacing: 6px;
+    text-align: center;
+    width: 200px;
+    cursor: pointer;
+    margin: 0 auto;
+    transform: translateY(-30vh);
+    }
+
+.social{
+    color: darkorange;
+}
