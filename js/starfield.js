@@ -61,7 +61,7 @@
 			mouseColor:	"rgba(0,0,0,0.2)",
 			mouseSpeed:	60,
 			fps:		60,
-			speed:		3,
+			speed:		10,
 			quantity:	512,
 			ratio:		256,
 			divclass:	"starfield"
