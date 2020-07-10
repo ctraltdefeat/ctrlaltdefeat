@@ -63,6 +63,7 @@
 			fps:		60,
 			speed:		2,
 			quantity:	512,
+			size: 45,
 			ratio:		256,
 			divclass:	"starfield"
 		},
