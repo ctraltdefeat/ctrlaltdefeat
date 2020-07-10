@@ -59,11 +59,10 @@
 			bgColor:	"rgba(255,255,255,1)",
 			mouseMove:	true,
 			mouseColor:	"rgba(0,0,0,0.2)",
-			mouseSpeed:	40,
+			mouseSpeed:	60,
 			fps:		60,
-			speed:		2,
+			speed:		3,
 			quantity:	512,
-			size: 45,
 			ratio:		256,
 			divclass:	"starfield"
 		},
