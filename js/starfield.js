@@ -58,7 +58,7 @@
 			starColor:	"rgba(0,0,0,1)", 
 			bgColor:	"rgba(255,255,255,1)",
 			mouseMove:	true,
-			mouseColor:	"rgba(0,0,0,1)",
+			mouseColor:	"rgba(255,255,255,1)",
 			mouseSpeed:	40,
 			fps:		15,
 			speed:		2,
