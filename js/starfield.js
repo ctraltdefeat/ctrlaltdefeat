@@ -60,7 +60,7 @@
 			mouseMove:	true,
 			mouseColor:	"rgba(0,0,0,0.2)",
 			mouseSpeed:	40,
-			fps:		15,
+			fps:		60,
 			speed:		2,
 			quantity:	512,
 			ratio:		256,
