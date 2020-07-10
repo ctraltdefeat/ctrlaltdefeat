@@ -55,8 +55,8 @@
 	Starfield.prototype = {
 		// Default settings
 		defaults: {
-			starColor:	"rgba(255,255,255,1)", 
-			bgColor:	"rgba(0,0,0,1)",
+			starColor:	"rgba(0,0,0,1)", 
+			bgColor:	"rgba(256,256,256,1)",
 			mouseMove:	true,
 			mouseColor:	"rgba(255,255,255,1)",
 			mouseSpeed:	40,
